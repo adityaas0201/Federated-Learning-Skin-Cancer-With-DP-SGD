@@ -1,0 +1,31 @@
+Python virtual environments
+
+fl_env/
+.venv/
+venv/
+
+Python cache
+
+pycache/
+*.py[cod]
+
+Generated experiment outputs
+
+outputs/
+
+Model checkpoints
+
+*.pt
+*.pth
+*.ckpt
+
+Secrets
+
+.env
+.env.*
+
+IDE and OS files
+
+.vscode/
+.DS_Store
+Thumbs.db
